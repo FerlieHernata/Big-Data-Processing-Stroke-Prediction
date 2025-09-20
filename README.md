@@ -55,7 +55,7 @@ We compared the performance of two machine learning models — **Random Forest**
 
 ## Report & Notebook
 -  [Jupyter Notebook](./Final_Project_BDP_Group4_.ipynb)  
--  [Final Report (PDF)](./Perbandingan%20Kinerja%20Model%20Random%20Forest%20dan%20Naive%20Bayes%20dalam%20Prediksi%20Stroke.pdf)
+-  [Final Report (PDF)](./Perbandingan%20Kinerja%20Model%20Random%20Forest%20dan%20Naive%20Bayes%20dalam%20Prediksi%20Stroke.PDF)
 
 ---
 
